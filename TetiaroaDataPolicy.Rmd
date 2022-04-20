@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2022-03-08'
+date: '2022-03-21'
 output: html_document
 ---
 
@@ -9,24 +9,14 @@ output: html_document
 
 Tetiaroa Society, French Polynesia
 
-\
-\
-\
-\
-\
-
 | **Tl;dr** In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-\
 
 Feedback form: <https://forms.gle/7aGfkZndD5bmkGrw7>
 
 # Preamble
 
 The owners of Tetiaroa have entrusted **Tetiaroa Society** (hereinafter "TS")as the private atoll's environmental steward with authority to develop and implement the **Tetiaroa Conservation & Sustainable Use Plan** (hereinafter the "CASUP"), and to manage access to the atoll for research, education, or conservation purposes. All projects must be authorized by Tetiaroa Society, which may seek advice from its Scientific Advisory Board (SAB), Cultural Advisory Board (CAB), and/or CASUP Committee, as appropriate. 
-
-\
 
 The handling of research data and other research outputs derived from Tetiaroa, including material samples and intellectual property, is a key consideration for Tetiaroa Society. The current document sets out its policy in this regard. As the environmental steward of Tetiaroa, TS has an interest in the stewardship of data and material samples derived from the atoll under its auspices. In addition to its role as environmental steward of 'physical' Tetiaroa, TS also serves as the steward of the atoll's digital representation ("digital twin" or "digital avatar") and to that end has established the **Tetiaroa Data Trust** in the context of two collaborative programs:
 
@@ -56,15 +46,15 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 \
 
-1.  ORCID IDs for all Participants in the Project
+a.  ORCID IDs for all Participants in the Project
 
-2.  Description of intended outputs (which might include datasets; original software; material samples) 
+b.  Description of intended outputs (which might include datasets; original software; material samples) 
 
-3.  List of any intended intellectual property (e.g., patents, copyright, design rights and confidential know-how)
+c.  List of any intended intellectual property (e.g., patents, copyright, design rights and confidential know-how)
 
-4.  Description of potential ethical, legal, or social consequences (including potential commercial uses) arising from the collection, distribution, use or reuse of material samples or data; how these issues will be addressed and by whom.
+d.  Description of potential ethical, legal, or social consequences (including potential commercial uses) arising from the collection, distribution, use or reuse of material samples or data; how these issues will be addressed and by whom.
 
-5.  Commitment to using the Traditional Knowledge/Biocultural Notices where appropriate.
+e.  Commitment to using the Traditional Knowledge/Biocultural Notices where appropriate.
 
 \
 
@@ -250,7 +240,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research ~~program in with~~program with the following objectives: 
+2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program with the following objectives: 
 
 \
 
