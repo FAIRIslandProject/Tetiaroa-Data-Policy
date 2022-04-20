@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2022-03-08'
+date: '2022-03-21'
 output: html_document
 ---
 
@@ -250,7 +250,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research ~~program in with~~program with the following objectives: 
+2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program with the following objectives: 
 
 \
 
