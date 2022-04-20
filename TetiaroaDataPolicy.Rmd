@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2022-03-07'
+date: '2022-03-08'
 output: html_document
 ---
 
@@ -9,6 +9,7 @@ output: html_document
 
 Tetiaroa Society, French Polynesia
 
+\
 \
 \
 \
@@ -249,7 +250,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program in with the following objectives: 
+2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research ~~program in with~~program with the following objectives: 
 
 \
 
@@ -261,4 +262,4 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-3.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" 
+4.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" 
