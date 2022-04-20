@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2022-03-04'
+date: '2022-03-07'
 output: html_document
 ---
 
@@ -11,27 +11,11 @@ Tetiaroa Society, French Polynesia
 
 \
 \
+\
+\
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Tl;dr ~~v1~~**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ~~In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects join the Tetiaroa IDEA - a collaborative project to build a digital simulation (avatar) of the atoll. Participants in the Tetiaroa IDEA agree to make their metadata and prepublication data available to each other as specified in mutually agreed DMPs that govern entry of data into the through a "Tetiaroa Data Trust" that facilitates data re-use according to the mutually agreed terms and a code of conduct described in this Policy. TS may make all data available to the public 1 year after stated end-date unless otherwise agreed to. The Tetiaroa Data Trust follows FAIR+CARE data principles and is distributed across repositories that meet global standards (TRUST) in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.~~ |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ~~To access the physical atoll or its digital avatar (i.e., prepublication data in the Tetiaroa Data Trust) researchers must submit a DMP and join the Tetiaroa IDEA.~~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ~~DMP to access the prepublication avatar will be a different flavor DMP that would indicate the data that will be accessed (citing the public metadata).~~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ~~**Tl;dr v2**~~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" ~~(TDT)~~ that facilitates data re-use according to mutually agreed terms and a code of conduct. The ~~TDT~~Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. ~~The TDT~~It follows ~~FAIR+CARE data principles and is distributed across repositories that meet global standards (TRUST) in research data stewardship~~best-practice in research data stewardship. ~~This~~This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.                                                                                                                                                               |
-+=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Tl;dr** In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere. |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 \
 
@@ -67,7 +51,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 \
 
-2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") related to Tetiaroa agree to submit a Project application to TS.~~.~~ A key component of this Application is a **Data Management Plan** (hereinafter the "DMP"), that may be developed. Modifications of the DMP might be required prior to TS granting approval to access the atoll. TS will provide a DMP template, using the DMP Tool or equivalent, that will require:
+2.  Participants who lead Projects (hereinafter "Principal Investigators" or "PIs") related to Tetiaroa agree to submit a Project application to TS. A key component of this Application is a **Data Management Plan** (hereinafter the "DMP"), that may be developed. Modifications of the DMP might be required prior to TS granting approval to access the atoll. TS will provide a DMP template, using the DMP Tool or equivalent, that will require:
 
 \
 
@@ -95,7 +79,7 @@ The current document (hereinafter "the Policy") represents guidelines that defin
 
 # Article 2 -- Tetiaroa Data Trust 
 
-The Tetiaroa Data Trust consists of transaction records and other metadata, data, and ~~derived data~~other research products from Projects carried out on Tetiaroa under the terms of this Policy. These digital objects ("Project Data") may be stored in multiple repositories as stated in the Project's Data Management Plan. 
+The Tetiaroa Data Trust consists of transaction records and other metadata, data, and other research products from Projects carried out on Tetiaroa under the terms of this Policy. These digital objects ("Project Data") may be stored in multiple repositories as stated in the Project's Data Management Plan. 
 
 \
 
@@ -123,40 +107,18 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 \
 
-7.  Public release of data: TS may release metadata to the public immediately. By default, there is also no embargo period on the public release of ~~metadata or prepublication~~ data~~.~~, however, ~~I~~ if requested and justified in the DMP, ~~however,~~ an embargo period may be granted for specified ~~prepublication~~ data (though not for metadata) for up to 1 year after the stated end-date of the Project. ~~TS may make all data available to the public 1 year after stated end-date unless otherwise agreed to.~~
-
-\
-
-8.  ~~TS personnel and other IDEA Consortium collaborators who have agreed to abide by the IDEA Code of Conduct are allowed pre-publication access and (re)use of data during any embargo period  (see Exhibit 1).~~\
+7.  Public release of data: TS may release metadata to the public immediately. By default, there is also no embargo period on the public release of data, however, if requested and justified in the DMP, an embargo period may be granted for specified data (though not for metadata) for up to 1 year after the stated end-date of the Project. \
     \
 
-9.  Legal Structure: The Tetiaroa Data Trust is a voluntary non-legally binding relationship between the Project, its Participants, and TS (which may have moral weight though not necessarily legal status). 
+8.  Legal Structure: The Tetiaroa Data Trust is a voluntary non-legally binding relationship between the Project, its Participants, and TS (which may have moral weight though not necessarily legal status). 
 
 \
 
-10. Beneficiaries of the Tetiaroa Data Trust include all stakeholders in Tetiaroa including those who provide data, those who are provided with prepublication access to the data (such as the IDEA Consortium), and those who benefit from what is created from the data (most importantly the atoll of Tetiaroa and its stewardship through the CASUP).  
-
-# ~~Article 3 -- Material Samples~~ 
-
-1.  ~~Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from Tetiaroa - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs.~~
+9.  Beneficiaries of the Tetiaroa Data Trust include all stakeholders in Tetiaroa including those who provide data, those who are provided with prepublication access to the data (such as the IDEA Consortium), and those who benefit from what is created from the data (most importantly the atoll of Tetiaroa and its stewardship through the CASUP).  
 
 \
 
-2.  ~~In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program in collaboration with the Research, Higher Education and Innovation Consortium of French Polynesia ("RESIPOL") with the following objectives:~~
-
-\
-
-1.  ~~to comprehensively inventory the biodiversity of Tetiaroa, including all species of fauna and flora -- plants, animals, algae, fungi, and microbial groups;~~
-
-2.  ~~to generate time-series biodiversity observations at the bio-molecular level, including nucleotide sequencing and other "multi-omic" approaches.~~
-
-3.  ~~to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make material samples and information available to the research community.~~
-
-\
-
-~~In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "~~[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)~~" [See Exhibit...].~~
-
-# Article ~~4~~3 -- Ethical, Legal, and Social Aspects 
+# Article 3 -- Ethical, Legal, and Social Aspects 
 
 1.  Certain data types or samples require special consideration for ethical, legal, social (including privacy, commercial confidentiality) and scientific reasons, such as, inter alia, data or samples associated with traditional knowledge, archeological artifacts, endangered species, medical data, and human subject research. In some cases, government permits might be required. In other cases, there might be commercial considerations. These aspects should be considered and addressed in Project DMPs.
 
@@ -172,7 +134,7 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 4.  Tetiaroa Society has developed approaches for certain data types and products and these will be amended to this Policy as Exhibits. For example biological samples subject to Nagoya Protocol), (see Exhibit 2).
 
-# Article ~~5~~4 -- Commercial Projects
+# Article 4 -- Commercial Projects
 
 1.  Projects with commercial intentrequireauthorization from Tetiaroa Society (and possibly other parties) under separate project-specific agreements. Commercial use is defined here as:
 
@@ -180,7 +142,7 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 1.  Commercial product development; the sale, lease, or license of the Outputs; using the Outputs to produce or manufacture products for general sale, not including publications and/or copyrightable works; transferring tangible rights by sale or license resulting in payment beyond cost; conducting market research; seeking pre-market approval.
 
-# Article ~~6~~5 -- Dispute Resolution
+# Article 5 -- Dispute Resolution
 
 1.  Disputes concerning the use of data or samples in ways that breach the good-faith engagements made under this data policy are adjudicated by Tetiaroa Society with input from its Advisory Boards, which will hear from both sides and make recommendations. Sanctions for failing to comply with the IDEA Code of Conduct or other aspects of the Tetiaroa Data Policy may include the rescinding of rights of future access to Tetiaroa.
 
@@ -188,11 +150,11 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 
 2.  This dispute resolution mechanism does not cover breaches of applicable laws or regulations, which shall be dealt with by the competent authorities.
 
-# Article ~~7~~6 -- Financial Aspects
+# Article 6 -- Financial Aspects
 
 1.  Nothing in this document commits TS or any other parties financially.
 
-# Article ~~8~~7 -- Compliance Monitoring 
+# Article 7 -- Compliance Monitoring 
 
 1.  The Tetiaroa Society will identify a delegate to check compliance to the Policy
 
@@ -263,7 +225,7 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 -   Reading the citable document(s) associated with the project (e.g., 'marker paper')
 
--   Accurately and completely citing the source of prepublication data ~~and metadata~~ and metadata, including the version of the data set 
+-   Accurately and completely citing the source of prepublication data and metadata, including the version of the data set 
 
 -   Being aware that released prepublication data may be associated with quality issues that will be later rectified by the data producers
 
@@ -283,11 +245,11 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 \
 
-3.  Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from Tetiaroa - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
+1.  Each project's DMP shall include a description of the physical collection and removal (extraction) of material samples from Tetiaroa - whether archeological, geological/chemical, biological, or social (built environment). Projects shall describe in their DMP how they plan to register these sampling events, apply unique identifiers, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. 
 
 \
 
-4.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program in with the following objectives: 
+2.  In the case of biological samples, the Tetiaroa Society has established the **Tetiaroa Biocode & Genomic Observatory**, a scientific research program in with the following objectives: 
 
 \
 
@@ -297,7 +259,6 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 
 3.  to test new technological and scientific approaches for the analysis of biodiversity patterns and ecological processes in general; and to make material samples and information available to the research community. 
 
-```{=html}
-<!-- -->
-```
-5.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)"
+\
+
+3.  In accordance with the Convention on Biological Diversity (Nagoya Protocol) and associated regulations of the French Polynesian government, all biosamples collected on Tetiaroa contribute to the Tetiaroa Biocode & Genomic Observatory and shall comply with the "[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)" 
