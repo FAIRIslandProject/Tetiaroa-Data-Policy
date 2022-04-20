@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2021-05-06'
+date: '2021-08-23'
 output: html_document
 ---
 
@@ -9,8 +9,6 @@ output: html_document
 
 Tetiaroa Society, French Polynesia
 
-\
-\
 \
 \
 
@@ -187,6 +185,7 @@ The Tetiaroa Data Trust consists of transaction records and other metadata, data
 1.  The Tetiaroa Society will identify a delegate to check compliance to the Policy
 
 \
+\
 
 # 
 
@@ -259,7 +258,3 @@ Participants in the IDEA Consortium agree to abide by the following principles:
 -   Contacting the data producers to discuss publication plans in the case of overlap between planned analyses
 
 -   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
-
-\
-\
-\
