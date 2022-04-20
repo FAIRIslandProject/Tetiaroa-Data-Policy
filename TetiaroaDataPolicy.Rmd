@@ -1,7 +1,7 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
 author: "Tetiaroa Society"
-date: '2021-08-23'
+date: '2021-08-31'
 output: html_document
 ---
 
@@ -9,6 +9,7 @@ output: html_document
 
 Tetiaroa Society, French Polynesia
 
+\
 \
 \
 
@@ -39,7 +40,7 @@ The owners of Tetiaroa have entrusted **Tetiaroa Society** (hereinafter "TS")as 
 
 \
 
-The handling of research data and other research outputs derived from Tetiaroa, including material samples and intellectual property, is a key consideration for Tetiaroa Society. The current document sets out its policy in this regard. As the environmental steward of Tetiaroa, TS has an interest in the stewardship of data and material samples derived from the atoll under its auspices. In addition to its role as environmental steward of 'physical' Tetiaroa, TS is ready to act as the steward of the atoll's "digital twin" or "avatar", and to that end has established the **Tetiaroa Data Trust** in the context of two collaborative programs:
+The handling of research data and other research outputs derived from Tetiaroa, including material samples and intellectual property, is a key consideration for Tetiaroa Society. The current document sets out its policy in this regard. As the environmental steward of Tetiaroa, TS has an interest in the stewardship of data and material samples derived from the atoll under its auspices. In addition to its role as environmental steward of 'physical' Tetiaroa, TS ~~is ready to~~also serves ~~act~~ as the steward of the atoll's digital representation ("digital twin" or "digital avatar"~~,~~) and to that end has established the **Tetiaroa Data Trust** in the context of two collaborative programs:
 
 \
 
