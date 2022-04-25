@@ -1,17 +1,17 @@
 ---
 title: "Tetiaroa IDEA Data Policy"
-author: "Tetiaroa Society"
-date: '2022-03-21'
+author: "Tetiaroa Society, French Polynesia"
+date: 'Last edited: 2022-03-21 | V0.0.0 (not adopted)'
 output: html_document
 ---
 
-# Tetiaroa IDEA Data Policy
+------------------------------------------------------------------------
 
-Tetiaroa Society, French Polynesia
+*Tl;dr In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.*
 
-Tl;dr In return for the support and access to Tetiaroa (the physical island and data derived from it) provided by Tetiaroa Society, participants in research projects agree to make their metadata and prepublication data available to each other through a "Tetiaroa Data Trust" that facilitates data re-use according to mutually agreed terms and a code of conduct. The Trust is maintained by the Tetiaroa Society to support decision-making for wise and equitable stewardship of the atoll. It follows best-practice in research data stewardship. This policy does not impose legally-binding conditions nor replace or impinge on legal obligations that might apply elsewhere.
+This is a living document. Ideas or feedback can be contributed through this form: <https://forms.gle/7aGfkZndD5bmkGrw7>
 
-Feedback form: <https://forms.gle/7aGfkZndD5bmkGrw7>
+------------------------------------------------------------------------
 
 ## Preamble
 
