@@ -3,7 +3,7 @@ title: "Tetiaroa Data Trust Policy"
 author: "Tetiaroa Society, French Polynesia"
 date: 'Last edited: 2025-08-27 | V1.0.0 (presented to the Tetiaroa Society Board)'
 output: 
-  pdf_document
+  word_document
 ---
 
 ------------------------------------------------------------------------
