@@ -1,0 +1,29 @@
+---
+title: "Tetiaroa Society Data Management Procedures"
+author: "Neil Davies and Erin Robinson"
+date: 'Last edited: 2025-08-27 | V1.0.0 (presented to the Tetiaroa Society Board)'
+output: 
+  pdf_document
+---
+
+-   Tetiaroa Society uses the iPlaces platform to manage project applications, publish Marker Papers, and track the connections to downstream outputs. 
+
+-   All Project PIs shall use an [ORCID](https://orcid.org/) to access iPlaces Tetiaroa and submit their Project applications along with a Data Management Plan (DMP). 
+
+-   Tetiaroa Society may obtain Local Contexts notices for Projects 
+
+-   Data/research output management plans should be shared with the project application.
+
+-   Material Samples - PIs shall describe any collection of material samples on Tetiaroa, including how they will register sampling events, apply unique identifiers to samples, implement relevant metadata standards, and track derived material (sub)samples, (meta)data, and other derived outputs. All biological samples collected on Tetiaroa shall comply with the “[Tetiaroa Access & Benefit Sharing (ABS) Agreement](https://drive.google.com/open?id=1W0SK1YihP2eHkt7WhOwJBp5mhy7o1HBx)[^1]” 
+
+-   All publications resulting from a Project should include: “(A portion of) This research was performed using resources and facilities of the Tetiaro Society (<https://ror.org/04p8xrf95>) “
+
+[^1]: Davies, N. (2025). Tetiaroa Access and Benefit Sharing (ABS) Agreement. Zenodo. <https://doi.org/10.5281/zenodo.16971287>
+
+**Acknowledgement**
+
+We are grateful for consultation and feedback from the FAIR Island Team (California Digital Library: John Chodacki, Maria Praetzellis, Catherine Nancarrow; DataCite: Matt Buys, Sarala Wimalaratne, Kelly Stathis and Kristian Garza; Metadata Game Changers: Erin Robinson; UC Berkeley: Neil Davies). We are also grateful for consultation with the IDEA Consortium members.
+
+**Citation**
+
+Include this DOI in the citation of this procedure: [doi.org/10.5281/zenodo.16971233](doi.org/10.5281/zenodo.16971233)

@@ -1,0 +1,79 @@
+---
+title: "IDEA Code of Conduct"
+author: "Neil Davies, Tetiaroa Society, UC Berkeley Gump South Pacific Research Station"
+date: 'Last edited: 2022-03-21 | V1.0.0 (not adopted)'
+output: html_document
+---
+
+The following is adapted from the Toronto Statement on Prepublication International Data Sharing. [^1]
+
+[^1]: [**Prepublication data sharing**](https://www.nature.com/nature/journal/v461/n7261/full/461168a.html) Toronto International Data Release Workshop Authors Nature **461**, 168-170 (10 September 2009) doi:[10.1038/461168a](doi.org/10.1038/461168a)
+
+------------------------------------------------------------------------
+
+\
+Participants in the IDEA Consortium agree to abide by the following principles:
+
+**Respect the Privacy, Ethical, and Legal rights** of anyone, including Indigenous peoples[^2], who might be adversely affected by the collection, distribution, use or reuse of data, samples or derived information and knowledge. Apply consent, confidentiality, anonymization and other ethical considerations, where appropriate.
+
+[^2]: Collective benefit, Authority to control, Responsibility, and Ethics - CARE principles for Indigenous data governance. GIDA h[ttps://www.Gida-Global.Org/care](https://www.gida-global.org/care)
+
+**Rapid prepublication data release to** the IDEA Consortium (e.g., through one of its regional chapters such as the Tetiaroa IDEA), which is a program with the following characteristics:
+
+-   Large scale (requiring significant resources over time) and broad utility
+
+-   Creating reference data sets
+
+-   Associated with community buy-in
+
+**Coordinating nodes** (e.g., Tetiaroa Society for the Tetiaroa IDEA)should facilitate the specification of data-release policies and compliance with agreed Data Management Plans by:
+
+-   Explicitly informing applicants of data-release requirements, especially mandatory prepublication data release 
+
+-   Ensuring that evaluation of data release plans is part of the peer-review process 
+
+-   Proactively establishing analysis plans and timelines for projects releasing data prepublication
+
+-   Fostering investigator-initiated prepublication data release
+
+-   Helping to develop appropriate consent, security, access and governance mechanisms that protect research participants while encouraging prepublication data release
+
+-   Providing long-term support of databases
+
+**Project leaders** should state their intentions and enable analyses of their data or material samples by:
+
+-   Informing data/sample users (e.g., through a ‘marker paper’ at initiation of the project) about the data/samples being generated, data standards and quality, planned analyses, timelines, and relevant contact information
+
+-   Providing relevant metadata and documentation that will assist other researchers in reproducing and/or independently analyzing the data, while protecting privacy and other ethical, legal, and social aspects concerning individuals and communities
+
+-   Ensuring that all participants in their Project are informed that their data will be shared with other scientists in the IDEA Consortium and the associated terms
+
+-   Publishing their initial global analyses in a timely fashion
+
+-   Providing a copy of their data, protocols, software and other outputs, in an easily retrievable form and with appropriate metadata and documentation that facilitates usage of both pre-processed and processed data (e.g., following FAIR data principles) 
+
+-   Ensuring the long-term maintenance of these resources (e.g., through deposition in appropriate repositories and collections).
+
+**Data analysts/users** should freely analyze released prepublication data or samples and act responsibly in publishing their analyses by:
+
+-   Respecting the scientific etiquette that allows data producers to publish the first global analyses of their data set 
+
+-   Reading the citable document(s) associated with the project (e.g., ‘marker paper’)
+
+-   Accurately and completely citing the source of prepublication data and metadata, including the version of the data set 
+
+-   Being aware that released prepublication data may be associated with quality issues that will be later rectified by the data producers
+
+-   Contacting the data producers to discuss publication plans in the case of overlap between planned analyses
+
+-   Ensuring that use of data does not harm participants and is in conformity with ethical, legal, and social aspects and approvals
+
+-   In case of major data project using substantial, significant or otherwise potentially sensitive prepublication data, users are encouraged to submit a Project application to TS for access to the data (digital Tetiaroa) to facilitate review and collaboration with relevant stakeholders
+
+**Acknowledgements**
+
+This Code of Conduct was adapted from the Toronto Statement on Prepublication International Data Sharing. We are grateful for consultation and feedback from the FAIR Island Team (California Digital Library: John Chodacki, Maria Praetzellis, Catherine Nancarrow; DataCite: Matt Buys, Sarala Wimalaratne, Kelly Stathis and Kristian Garza; Metadata Game Changers: Erin Robinson; UC Berkeley: Neil Davies). We are also grateful for consultation with the IDEA Consortium members.
+
+**Citation**
+
+Please cite this as: 10.5281/zenodo.16971172
